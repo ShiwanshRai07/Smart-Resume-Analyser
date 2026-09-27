@@ -1,6 +1,6 @@
 {
-  "datasetVersion": "research-dataset-2025-12-14",
-  "generatedAt": "2026-06-27T16:14:09.686Z",
+  "datasetVersion": "research-dataset-2026-07-15",
+  "generatedAt": "2026-07-21T07:51:31.930Z",
   "sourceFiles": {
     "jobs": "data/jobs.csv",
     "courses": "data/Online_Courses.csv"

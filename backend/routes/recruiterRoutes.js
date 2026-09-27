@@ -13,7 +13,7 @@ const upload = multer({ storage });
 
 // Gemini setup
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash" });
 
 // Normalize the parsed JSON output
 const normalizeArray = (field) => {
